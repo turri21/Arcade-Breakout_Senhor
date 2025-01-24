@@ -1,3 +1,8 @@
+-=(Breakout_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Arcade Breakout for MiSTer
 
 + FPGA implementation of Arcade _Breakout_(Atari, 1976) for MiSTer.
